@@ -6,7 +6,7 @@ public class TerceiraClasse {
 		
 		/*SWITCH CASE: OPERAÇÕES EXATAS*/
 		
-		int dia = 10;
+		int dia = 2;
 		
 		switch (dia) {
 		case 1: 
