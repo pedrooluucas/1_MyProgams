@@ -3,6 +3,9 @@ package operadores.logico.relacional.condicional.java;
 public class QuintaClasse {
 
 	public static void main(String[] args) {
+		
+		/*Estrutura de Repetição FOR e Break*/
+		
 		for (int numero = 0; numero <= 10; numero++) {
 			if(numero == 7) {
 				System.out.println("Procurando o Numero 7...");
