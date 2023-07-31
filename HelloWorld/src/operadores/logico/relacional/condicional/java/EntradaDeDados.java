@@ -5,6 +5,8 @@ import javax.swing.*;
 public class EntradaDeDados {
 	public static void main(String[] args) {
 		
+		//Entrada de Dados
+		
 		String carros = JOptionPane.showInputDialog(" Imforme a Quantidade de Carros ");
 		String pessoas = JOptionPane.showInputDialog(" Imforme a Quantidade de Pessoas ");
 		

@@ -6,6 +6,8 @@ public class CauculoMedia {
 
 	public static void main(String[] args) {
 		
+		//Cauculo Media
+		
 		String nota1 = JOptionPane.showInputDialog(" Imforme sua 1 Nota ");
 		String nota2 = JOptionPane.showInputDialog(" Imforme sua 2 Nota ");
 		String nota3 = JOptionPane.showInputDialog(" Imforme sua 3 Nota ");
