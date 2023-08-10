@@ -4,7 +4,7 @@ public class Aluno {
 	
 	/*Esses são os atributos do Aluno*/
 	
-	String nome;
+	public String nome;
 	int idade;
 	String dataNascimento;
 	String registroGeral;
