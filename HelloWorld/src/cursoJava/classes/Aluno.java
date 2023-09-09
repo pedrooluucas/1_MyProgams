@@ -5,7 +5,7 @@ public class Aluno {
 	/*Esses são os atributos do Aluno*/
 	
 	private String nome;
-	private int idade;
+	private String idade;
 	private	String dataNascimento;
 	private String registroGeral;
 	private String numeroCpf;
@@ -27,7 +27,7 @@ public class Aluno {
 		nome = nomePadrao;
 	}
 	
-	public Aluno (String nomePadrao, int idadePadrao) {
+	public Aluno (String nomePadrao, String idadePadrao) {
 		nome = nomePadrao;
 		idade = idadePadrao;
 	}
@@ -41,11 +41,11 @@ public class Aluno {
 		this.nome = nome;
 	}
 
-	public int getIdade() {
+	public String getIdade() {
 		return idade;
 	}
 
-	public void setIdade(int idade) {
+	public void setIdade(String idade) {
 		this.idade = idade;
 	}
 
